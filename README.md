@@ -17,3 +17,4 @@ Here is my todo list
 | RaJ 5min Breakout strategy| US equities Market open break out strategy | TBD  |
 |DCA strategy| Check out https://www.youtube.com/watch?v=v13D2E769wQ |TBD|
 | 1 confirmed by 3| TRade NQ when the 3 major tickers confirms |TBD|
+| 8 strategies bundle | Implement the strategies described in this video https://www.youtube.com/watch?v=rlSkRMmycWo |TBD|
