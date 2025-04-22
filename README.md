@@ -12,7 +12,8 @@ Here is my todo list
 | Compression Expansion | Le range est ce qu'il est mais le body range est très inférieur. Des qu'une bougie est plus grande que avgrange et que le body range est aussi plus grand que avgbodyrange on prend position pour 2r. La compression vient du range: recouvrement d'au moins 70 des bougies par rapport à la précédente ou par rapport à l'une des précédentes  | TBD  |
 |Mulham Gold 1H Strategy| Descirption here https://www.youtube.com/watch?v=rZlRz-dg5LE but does not seam to have a high winrate |Done|
 |2B| Strategy described by Quant trader eadge. I could just use this indicator "2B Reversal Pattern (Expo)" | TBD  |
-|Trader Mike Confirmation candle| Described on multiple videos | TBD  |
+|Trader Mike Confirmation candle| Described in multiple videos | TBD  |
 | London High-to-Low | Seel asian range high breakout to target asian range Low | TBD  |
 | RaJ 5min Breakout strategy| US equities Market open break out strategy | TBD  |
 |DCA strategy| Check out https://www.youtube.com/watch?v=v13D2E769wQ |TBD|
+| 1 confirmed by 3| TRade NQ when the 3 major tickers confirms |TBD|
