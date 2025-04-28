@@ -25,3 +25,7 @@ Key info for my different strategies on a LT backtest from 2021-01-01 to 2025-04
 | Strategy | Sharpe Ratio |
 |------------|------------------|
 |WRB Pure Body|0.314|
+| 3 candles Reversal| 0.047|
+| 1min Wick Test |−0.298|
+|1min Hoagies| 0.073|
+
